@@ -5,6 +5,15 @@ body {
 .dogs {
   display: none;
 }
+
+.kaviar {
+  display: none;
+}
+
+.gallery-div {
+  display: none;
+}
+
 .sara-picture {
   width: 100%;
   border-radius: 50%;
