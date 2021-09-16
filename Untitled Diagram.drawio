@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T13:37:16.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Cg9dIoefs4hBhosUYJ77" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T13:52:45.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="3JNqfIpaCDX3d3mY542Y" version="14.2.4" type="github">
   <diagram id="6w8KKWqT4wNNRFjxeA2o" name="Page-1">
     <mxGraphModel dx="805" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="370" y="300" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="HepbqK2hy2XFILLbr-G1-5" value="Stage 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="320" width="50" height="40" as="geometry" />
+          <mxGeometry x="390" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HepbqK2hy2XFILLbr-G1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HepbqK2hy2XFILLbr-G1-6" target="HepbqK2hy2XFILLbr-G1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HepbqK2hy2XFILLbr-G1-6" value="Proceed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="490" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HepbqK2hy2XFILLbr-G1-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="180" height="60" as="geometry" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="HepbqK2hy2XFILLbr-G1-21" value="Button only available&lt;br&gt;for User2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HepbqK2hy2XFILLbr-G1-23" value="Pump 3632" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
